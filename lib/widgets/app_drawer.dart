@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/screens/patients_screens/attached_files_screen.dart';
+import '../core/app_localizations.dart';
+import '../screens/patients_screens/attached_files_screen.dart';
 import '../screens/patients_screens/personal_info_screen.dart';
 import '../screens/patients_screens/medical_info_screen.dart';
 

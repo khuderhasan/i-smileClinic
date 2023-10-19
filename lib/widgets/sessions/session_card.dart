@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/providers/auth.dart';
-import 'package:i_smile_clinic/widgets/sessions/add_session_bottom_sheet.dart';
+import '../../core/app_localizations.dart';
+import '../../providers/auth.dart';
+import 'add_session_bottom_sheet.dart';
 import '../../providers/sessions.dart';
 import '../alert_dialog.dart';
 // ignore: depend_on_referenced_packages

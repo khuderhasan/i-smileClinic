@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/providers/doctors.dart';
+import '../../core/app_localizations.dart';
+import '../../providers/doctors.dart';
 // ignore: depend_on_referenced_packages
 import 'package:provider/provider.dart';
 

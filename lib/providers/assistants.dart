@@ -1,11 +1,10 @@
 import 'dart:convert';
 
 import 'package:flutter/material.dart';
-
-import 'package:i_smile_clinic/core/constatnts.dart';
-
 // ignore: depend_on_referenced_packages
 import 'package:http/http.dart' as http;
+
+import '../core/constatnts.dart';
 
 class Assistants with ChangeNotifier {
   String authToken;

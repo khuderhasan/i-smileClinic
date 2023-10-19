@@ -1,9 +1,11 @@
+import 'dart:convert';
+
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/models/doctor.dart';
 // ignore: depend_on_referenced_packages
 import 'package:http/http.dart' as http;
-import 'dart:convert';
+
 import '../core/constatnts.dart';
+import '../models/doctor.dart';
 
 class Doctors with ChangeNotifier {
   List<Doctor> _doctors = [];

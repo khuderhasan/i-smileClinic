@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/providers/sessions.dart';
-import 'package:i_smile_clinic/widgets/choose_image_bottom_sheet.dart';
-import 'package:i_smile_clinic/widgets/patient/pinch_zoom_image.dart';
+import '../../core/app_localizations.dart';
+import '../../providers/sessions.dart';
+import '../../widgets/choose_image_bottom_sheet.dart';
+import '../../widgets/patient/pinch_zoom_image.dart';
 import 'package:provider/provider.dart';
 
 class AttachedFilesScreen extends StatefulWidget {

@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/widgets/alert_dialog.dart';
+import '../../core/app_localizations.dart';
+import '../../widgets/alert_dialog.dart';
 
 import 'package:provider/provider.dart';
 

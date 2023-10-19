@@ -15,8 +15,8 @@ import '../../providers/doctors.dart';
 import '../../widgets/option_item.dart';
 import '../patients_screens/all_patients_screen.dart';
 import 'schedule_screen.dart';
-import 'time_settings_screen.dart';
 import 'stepper_screen.dart';
+import 'time_settings_screen.dart';
 
 class HomeScreen extends StatelessWidget {
   const HomeScreen({Key? key}) : super(key: key);

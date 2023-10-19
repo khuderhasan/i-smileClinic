@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
+import '../../core/app_localizations.dart';
 import '../../models/helper/medical_report_helper.dart';
 import '../../widgets/alert_dialog.dart';
 // ignore: depend_on_referenced_packages

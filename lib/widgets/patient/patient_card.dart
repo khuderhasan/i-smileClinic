@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/core/constatnts.dart';
-import 'package:i_smile_clinic/providers/patients.dart';
+import '../../core/app_localizations.dart';
+import '../../core/constatnts.dart';
+import '../../providers/patients.dart';
 import 'package:provider/provider.dart';
 
 import '../../providers/auth.dart';

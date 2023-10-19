@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/constatnts.dart';
-import 'package:i_smile_clinic/screens/patients_screens/priview_image.dart';
+import '../../core/constatnts.dart';
+import '../../screens/patients_screens/priview_image.dart';
 
 class ZoomImage extends StatelessWidget {
   final String imageUrl;

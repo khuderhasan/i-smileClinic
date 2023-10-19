@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/constatnts.dart';
+import '../../core/constatnts.dart';
 
 class PriviewImage extends StatelessWidget {
   static const routeName = "/priview-image";

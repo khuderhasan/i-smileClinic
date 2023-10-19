@@ -2,8 +2,8 @@ import 'dart:io';
 
 import 'package:flutter/material.dart';
 import 'package:flutter_image_compress/flutter_image_compress.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/providers/doctors.dart';
+import '../../core/app_localizations.dart';
+import '../../providers/doctors.dart';
 import 'package:provider/provider.dart';
 import 'package:image_picker/image_picker.dart';
 

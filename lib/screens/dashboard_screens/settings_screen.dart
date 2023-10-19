@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/providers/auth.dart';
-import 'package:i_smile_clinic/screens/auth_screen.dart';
+import '../../core/app_localizations.dart';
+import '../../providers/auth.dart';
+import '../auth_screen.dart';
 import 'package:provider/provider.dart';
 
 import '../../core/constatnts.dart';

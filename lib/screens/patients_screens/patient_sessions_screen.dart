@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/constatnts.dart';
+import '../../core/constatnts.dart';
 
 import 'package:provider/provider.dart';
 import '../../providers/auth.dart';

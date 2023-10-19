@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/models/http_exeption.dart';
+import '../../core/app_localizations.dart';
+import '../../models/http_exeption.dart';
 import 'package:provider/provider.dart';
 
 import '../../providers/patients.dart';

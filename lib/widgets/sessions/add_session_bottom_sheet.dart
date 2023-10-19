@@ -1,11 +1,11 @@
 import 'package:awesome_dialog/awesome_dialog.dart';
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
 // ignore: depend_on_referenced_packages
 import 'package:intl/intl.dart';
 // ignore: depend_on_referenced_packages
 import 'package:provider/provider.dart';
 
+import '../../core/app_localizations.dart';
 import '../../core/constatnts.dart';
 import '../../providers/sessions.dart';
 

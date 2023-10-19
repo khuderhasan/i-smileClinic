@@ -1,9 +1,8 @@
-import 'package:i_smile_clinic/core/app_localizations.dart';
-import 'package:i_smile_clinic/providers/auth.dart';
+import '../core/app_localizations.dart';
+import '../providers/auth.dart';
 import '../core/constatnts.dart';
 import '../core/wave_clipper.dart';
 import 'package:flutter/material.dart';
-// ignore: depend_on_referenced_packages
 import 'package:provider/provider.dart';
 
 import '../models/http_exeption.dart';

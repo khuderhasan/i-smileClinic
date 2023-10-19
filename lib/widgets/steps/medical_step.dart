@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/core/app_localizations.dart';
+import '../../core/app_localizations.dart';
 
 import '../../core/constatnts.dart';
 import '../../models/medical_report.dart';

@@ -1,11 +1,11 @@
 import 'dart:io';
 
 import 'package:flutter/material.dart';
-import 'package:i_smile_clinic/providers/sessions.dart';
-import 'package:i_smile_clinic/widgets/alert_dialog.dart';
+import '../providers/sessions.dart';
+import 'alert_dialog.dart';
 import 'package:image_picker/image_picker.dart';
 
-import 'package:i_smile_clinic/core/app_localizations.dart';
+import '../core/app_localizations.dart';
 import 'package:provider/provider.dart';
 
 class ChooseImageBottomSheet extends StatefulWidget {
