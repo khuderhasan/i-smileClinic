@@ -1,14 +1,13 @@
 # i_smile_clinic
 
-A new Flutter project.
+Flutter Application to Organize appointment reservations and filing system in dental clinc (developed with laravel backend).
 
 ## Getting Started
 
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
-![photo_2023-10-19_17-24-06](https://github.com/khuderhasan/i-smileClinic/assets/104022210/603fb250-c328-41bb-8496-798f9ce956b3)
-![photo_2023-10-19_17-24-11](https://github.com/khuderhasan/i-smileClinic/assets/104022210/fc7698c7-b8a0-4131-9d96-d6347a202fd0)
+![photo_2023-10-19_17-24-06](https://github.com/khuderhasan/i-smileClinic/assets/104022210/603fb250-c328-41bb-8496-798f9ce956b3) ![photo_2023-10-19_17-24-11](https://github.com/khuderhasan/i-smileClinic/assets/104022210/fc7698c7-b8a0-4131-9d96-d6347a202fd0)
 ![photo_2023-10-19_17-24-14](https://github.com/khuderhasan/i-smileClinic/assets/104022210/e49c4eb9-3caa-4667-a473-a729a98d637b)
 ![photo_2023-10-19_17-25-10](https://github.com/khuderhasan/i-smileClinic/assets/104022210/2e68de14-473b-4cda-99b3-fa2031b0b206)
 ![photo_2023-10-19_17-24-39](https://github.com/khuderhasan/i-smileClinic/assets/104022210/aaf6dbc8-481e-4bdb-b270-5fefcf58a5e6)
